@@ -4,5 +4,17 @@
     "news" : "Были добавлены оповещения об обновлениях.",
     "cfg250_ava" : 1,
     "cfg250_dir" : "250.cfg",
-    "cfg250_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg"
+    "cfg250_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg",
+    "cfg500_ava" : 1,
+    "cfg500_dir" : "250.cfg",
+    "cfg500_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg",
+    "cfg600_ava" : 1,
+    "cfg600_dir" : "250.cfg",
+    "cfg600_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg",
+    "cfg1000_ava" : 1,
+    "cfg1000_dir" : "250.cfg",
+    "cfg1000_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg",
+    "cfg1600_ava" : 1,
+    "cfg1600_dir" : "250.cfg",
+    "cfg1600_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg",
 }
