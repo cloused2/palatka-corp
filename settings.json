@@ -17,4 +17,6 @@
     "cfg1600_ava" : 1,
     "cfg1600_dir" : "1600.cfg",
     "cfg1600_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/1600.cfg"
+    "repw_dir" : "ReplaceWindow.lua",
+    "repw_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/ReplaceWindow.lua"
 }
