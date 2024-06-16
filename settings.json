@@ -4,4 +4,5 @@
     "news" : "Были добавлены оповещения об обновлениях."
     "cfg250_ava" : 1,
     "cfg250_dir" : "250.cfg",
+    "cfg250_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/250.cfg"
 }
