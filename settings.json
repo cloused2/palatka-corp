@@ -17,6 +17,10 @@
     "cfg1600_ava" : 1,
     "cfg1600_dir" : "1600.cfg",
     "cfg1600_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/1600.cfg",
-    "repw_dir" : "ReplaceWindow.lua",
-    "repw_url" : "https://raw.githubusercontent.com/cloused2/palatka-corp/main/ReplaceWindow.lua"
+    "repw_dir" : "Replace Window.lua",
+    "repw_url" : "https://github.com/cloused2/palatka-corp/raw/main/Replace%20Window.lua",
+    "act_dir" : "act.lua",
+    "act_url" : "https://github.com/cloused2/palatka-corp/raw/main/act.lua",
+    "bcl_dir" : "BufferCleanerAuto.lua",
+    "bcl_url" : "https://github.com/cloused2/palatka-corp/raw/main/BufferCleanerAuto.lua"
 }
